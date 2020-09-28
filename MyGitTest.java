@@ -1,8 +1,8 @@
 
 public class MyGitTest {
 
-	public MyGitTest() {
-		// TODO Auto-generated constructor stub
+	public static void main(String args[]) {
+		System.out.println("Birgir says Hello from the Master");
 	}
 
 }
