@@ -4,3 +4,4 @@ public class MyGitTest {
 		System.out.println("Jake says Hello from master and branch AAAA");
 	}
 }
+//Changed the file
